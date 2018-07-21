@@ -19,6 +19,6 @@ Within this suite, Test 1 ensures that the allFeeds variable has been defined an
 <b>Test Suite 2</b><br>
 is about the Menu.
 Within this suite, its first test ensures that the menu element is hidden by default. Its second test ensures that the menu toggles visibility when the menu icon is clicked.<br>
-<b>Test Suite 3</b><br> is named Initial Entries. Within this suite, its first test ensures that tests run after loadFeed is completed. Its second test ensures there is at least one single .entry element within the .feed container.<br>
+<b>Test Suite 3</b><br> is named Initial Entries. Within this suite, its first test ensures that tests run <i>after</i> loadFeed is completed. Its second test ensures there is at least one single .entry element within the .feed container.<br>
 
 
