@@ -18,5 +18,7 @@ is about the RSS feeds definitions and the allFeeds variable in the application.
 Within this suite, Test 1 ensures that the allFeeds variable has been defined and that it is not empty. Test 2 loops through each feed in the allFeeds object and ensures it has a URL defined and that the URL is not empty. Test 3 loops through each feed in the allFeeds object and ensures it has a name defined and that the name is not empty.<br>
 <b>Test Suite 2</b><br>
 is about the Menu.
-Within this suite, the first test ensures that the menu element is hidden by default. The second test ensures that the menu toggles visibility when the menu icon is clicked.<br>
+Within this suite, its first test ensures that the menu element is hidden by default. Its second test ensures that the menu toggles visibility when the menu icon is clicked.<br>
+<b>Test Suite 3</b><br> is named Initial Entries. Within this suite, its first test ensures that tests run after loadFeed is completed. Its second test ensures there is at least one single .entry element within the .feed container.<br>
+
 
